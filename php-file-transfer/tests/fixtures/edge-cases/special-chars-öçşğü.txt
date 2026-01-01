@@ -1,0 +1,2 @@
+Bu dosya Türkçe karakterler içeren bir dosya adına sahip.
+Test amaçlı oluşturulmuştur.

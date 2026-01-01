@@ -1,0 +1,6 @@
+This is a sample test file for the File Transfer Service API.
+
+You can use this file to test the upload endpoint:
+curl -X POST http://localhost:8000/api/files -F "file=@tests/fixtures/sample.txt"
+
+Created for testing purposes.

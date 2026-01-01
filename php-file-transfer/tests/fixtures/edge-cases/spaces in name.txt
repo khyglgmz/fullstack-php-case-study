@@ -1,0 +1,2 @@
+Bu dosya adında boşluk karakteri var.
+Test amaçlı oluşturulmuştur.
